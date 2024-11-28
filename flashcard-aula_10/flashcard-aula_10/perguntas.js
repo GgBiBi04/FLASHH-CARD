@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Voleibol de quadra',
+    'O que é o Voleibol?',
+    'O voleibol é um esporte jogado por duas equipes de seis jogadores, cujo objetivo é fazer a bola tocar o chão do adversário passando por cima de uma rede.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Voleibol de quadra',
+    'Qunatos sets são necessários para vencer uma partida?',
+    'Geralmente, são necessários 3 sets para vencer uma partida de melhor de 5 sets.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Voleibol de quadra',
+    'Quais são as fundamentos do Voleibol?',
+    'Os principais fundamentos são: saque, recepção, levantamentos, ataque e bloqueio.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Voleibol de quadra',
+    'Quantas posições existem em um time de vôlei?',
+    'Existem seis posições: levantador, central, oposto, ponteiro, líbero e atacante.'
 )
